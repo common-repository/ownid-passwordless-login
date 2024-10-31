@@ -1,0 +1,11 @@
+.login form {
+
+    padding-bottom: 55px !important;
+
+    overflow: visible !important;
+
+}
+
+form#loginform {
+    overflow: visible !important;
+}
